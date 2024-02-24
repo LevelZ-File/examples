@@ -1,0 +1,8 @@
+@type 2
+@spawn default
+---
+grass: [0, 0]
+grass: [0, 1]
+dirt: [1, 1]
+stone: (-3, 3, 0, 0)^[2, 2]
+end
