@@ -1,5 +1,6 @@
 @type 2
 @spawn default
+@scroll none
 ---
 grass: [0, 0]
 grass: [0, 1]

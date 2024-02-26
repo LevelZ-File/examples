@@ -1,0 +1,10 @@
+@type 2
+@spawn default
+@scroll vertical-down
+---
+grass: [0, -1]
+dirt: (0, 0, -5, 0)^[0, -2]
+grass: (0, 0, -5, 0)^[1, -2]
+grass: (0, 0, -5, 0)^[-1, -2]
+stone: (-5, 5, 0, 0)^[0, -7]
+end

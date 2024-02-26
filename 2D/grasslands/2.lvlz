@@ -1,5 +1,6 @@
 @type 2
 @spawn default
+@scroll none
 ---
 stone: [0, -1]
 stone: (-3, 3, 0, 0)^[-4, 0]

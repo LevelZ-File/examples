@@ -1,4 +1,5 @@
 @type 2
 @spawn default
+@scroll none
 ---
 end

@@ -1,0 +1,8 @@
+@type 2
+@spawn [0, 10]
+@scroll horizontal-right
+---
+grass: [0, 9]
+grass: (0, 0, 0, 7)^[0, 0]
+stone: (-5, 5, 0, 0)^[0, 0]
+end

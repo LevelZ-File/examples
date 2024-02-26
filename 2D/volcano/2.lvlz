@@ -1,0 +1,7 @@
+@type 2
+@spawn [-5, 0]
+---
+stone: [-5, -1]
+stone<"cracked"=true>: [-5, -2]
+{magma, lava}: (-4, 5, 0, 0)^[0, 0]
+end
