@@ -2,6 +2,6 @@
 @spawn default
 @scroll vertical-up
 ---
-{stone, stone<"cracked"=true>}: (-5, 5, 0, 0)^[0, 0]
+{stone, stone<cracked=true>}: (-5, 5, 0, 0)^[0, 0]
 magma: (-5, 5, 0, 0)^[0, -1]
 end
