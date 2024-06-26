@@ -1,0 +1,10 @@
+@type 2
+@spawn [5, 1]
+@scroll none
+---
+stone<cracked=false>: (0, 10, 0, 0)^[0, 0] # Comment 1
+stone<cracked=true, mossy=true>: [0, 1]*[0, 0]*[-1, 0] # Comment 2
+stone<cracked=false, mossy=true>: (-5, 0, 0, 1)^[-2, 0] # Comment 3
+end
+
+More comments under here
